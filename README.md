@@ -1,4 +1,4 @@
-Consulta CPF  Termos e Condições
+Termos e Condições
 
 Estes termos e condições se aplicam ao aplicativo Consulta CPF (doravante referido como "Aplicativo") para dispositivos móveis, criado por Pedro Henrique (doravante referido como "Provedor de Serviço") como um serviço comercial.
 
